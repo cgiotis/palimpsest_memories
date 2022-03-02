@@ -18,5 +18,5 @@ network.plot_signal_evolution()
 
 """Plot recall probability"""
 recall_percentage = [0.5, 0.8, 1]
-no_trials = 1
+no_trials = 200
 network.plot_recall_probability(recall_percentage, no_trials)

@@ -11,7 +11,7 @@ from itertools import chain, combinations
 from scipy import stats
 import os
 
-PARENT_PATH = "data/BITS"
+PARENT_PATH = "../data/BITS"
 BINARY_THRESHOLD = 10.6e6
 
 RET_INIT_TAG = "init.csv"
