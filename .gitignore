@@ -1,3 +1,10 @@
+##### Test Folders #####
+data/network/binary_images/test_data
+data/network/random_memories/intensity_study
+memory_net/test.py
+
+
+##### GITHUB TEMPLATE #####
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
